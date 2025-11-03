@@ -1,9 +1,5 @@
 # CIS 5660 HW04 Procedural Buildings
 
-
-
-
-
 ---
 
 ## Project Overview
@@ -24,9 +20,7 @@ Initially attempted to procedurally generate doors, windows, and balconies in Ho
 
 <img title="" src="imgs\window1.png" alt="floor1.png" width="311"><img title="" src="imgs\window2.png" alt="floor1.png" width="310">
 
-
-
-![floor1.png](imgs\door1.png)![floor1.png](imgs\door2.png)![floor1.png](imgs\balcony1.png)![floor1.png](imgs\balcony2.png)
+<img src="imgs\door1.png" title="" alt="floor1.png" width="310"><img src="imgs\door2.png" title="" alt="floor1.png" width="310"><img title="" src="imgs\balcony1.png" alt="floor1.png" width="311"><img title="" src="imgs\balcony2.png" alt="floor1.png" width="312">
 
 ### Part 3: Pillars and Borders
 
@@ -53,8 +47,6 @@ Added a roof system to the building.
 ![floor1.png](imgs\final.png)
 
 [hw4 house - YouTube](https://youtu.be/b_YiNX9kMFE)
-
-
 
 ## Target
 
