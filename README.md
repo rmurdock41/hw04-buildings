@@ -16,7 +16,7 @@ This project creates a procedural building generation tool in Houdini inspired b
 
 Following the tutorial, I created a basic HDA tool that stacks boxes to form the fundamental framework of multi-story buildings.
 
-![floor1.png](imgs\floor1.png)
+![floor1.png](imgs/floor1.png)
 
 ### Part 2: Adding Details
 
