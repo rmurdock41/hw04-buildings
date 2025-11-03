@@ -26,25 +26,25 @@ Initially attempted to procedurally generate doors, windows, and balconies in Ho
 
 Following the tutorial, I added pillars and borders to each floor.
 
-![floor1.png](imgs\pillarAndBoarder.png)
+![floor1.png](imgs/pillarAndBoarder.png)
 
 ### Part 4: Supports
 
 Added support structures for overhanging floors.
 
-![floor1.png](imgs\support.png)
+![floor1.png](imgs/support.png)
 
 ### Extra Credit: Roof
 
 Added a roof system to the building.
 
-![floor1.png](imgs\roof.png)
+![floor1.png](imgs/roof.png)
 
 ## 
 
 ## Demo Video
 
-![floor1.png](imgs\final.png)
+![floor1.png](imgs/final.png)
 
 [hw4 house - YouTube](https://youtu.be/b_YiNX9kMFE)
 
